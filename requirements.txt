@@ -1,0 +1,13 @@
+urllib3!=1.25.0
+ipykernel==4.10
+folium==0.2.1
+streamlit
+
+matplotlib
+numpy
+pandas
+xmltodict
+urllib
+seaborn
+PIL
+gender_guesser
